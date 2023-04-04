@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Subudhi-Varun
 - 👀 I’m interested in Web Development and Game Development
-- 🌱 I’m currently learning java and unity hub
+- 🌱 I’m currently learning react js, node js 
+and unity hub
 - 💞️ I’m looking to collaborate with anyone 
 - 📫 How to reach me mail-subudhivarun123@gmail.com,mobile-7032904583
 
